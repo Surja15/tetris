@@ -1,16 +1,27 @@
-# tetris_by_surja
+# Tetris by Surja
 
-A new Flutter project.
+Welcome to Tetris! This is a simple Tetris game implemented in Flutter using only Dart. The game features intuitive controls with left, right, and rotate buttons, along with a score tab to keep track of your progress.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Simple and vibrant Tetris gameplay experience
+- Intuitive controls with left, right, and rotate buttons
+- Score tab to track your progress
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Gameplay
+
+The objective of the game is to manipulate the falling Tetriminos to create complete horizontal lines without any gaps. When a line is completed, it disappears, and any blocks above it fall down to fill the space. The game ends if the Tetriminos reach the top of the playfield.
+
+Players can control the movement and rotation of Tetriminos using the following buttons:
+- Left Button: Move Tetrimino left
+- Right Button: Move Tetrimino right
+- Rotate Button: Rotate Tetrimino clockwise
+
+## Installation
+
+1. Clone the repository:
+ git clone https://github.com/Surja15/tetris.git
+2. Or download the app from releases. Its ready. 
+
